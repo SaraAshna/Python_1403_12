@@ -1,0 +1,12 @@
+Database A (Tech Industry Focus)
+first_name last_name  age nationality   job                     email                     gender
+Emma       Johnson    28  American     Software Engineer       emma.johnson@techco.com   Female
+Liam       Chen       35  Chinese      Data Scientist          liam.chen@techco.com      Male
+Sophia     Martinez   42  Spanish      DevOps Specialist       sophia.martinez@techco.com Female
+Noah       Kim        31  Korean       AI Researcher           noah.kim@techco.com       Male
+Olivia     Smith      26  British      UX Designer             olivia.smith@techco.com   Female
+Ethan      Okafor     39  Nigerian     Cybersecurity Analyst   ethan.okafor@techco.com   Male
+Ava        Müller     33  German       Product Manager         ava.muller@techco.com     Female
+Logan      Santos     45  Brazilian    CTO                     logan.santos@techco.com   Male
+Mia        Ivanova    29  Russian      Frontend Developer      mia.ivanova@techco.com    Female
+Jackson    Wong       37  Canadian     Cloud Architect         jackson.wong@techco.com   Male
