@@ -1,0 +1,17 @@
+first_name  last_name     age  nationality    job                     email                          gender
+Emma        Thompson     32   Canadian       Designer                emma.thompson@example.com      Female
+Liam        Rodriguez    28   Mexican        Engineer                liam.rodriguez@example.com     Male
+Sophia      Chen         41   Chinese        Doctor                  sophia.chen@example.com        Female
+Noah        Bennett      55   British        Lawyer                  noah.bennett@example.com       Male
+Olivia      Petrov       23   Russian        Journalist              olivia.petrov@example.com      Female
+Jackson     Morales      37   Spanish        Architect               jackson.morales@example.com    Male
+Ava         Fitzgerald   29   Irish          Teacher                 ava.fitzgerald@example.com     Female
+Lucas       Nakamura     62   Japanese       Consultant              lucas.nakamura@example.com     Male
+Isabella    Russo        19   Italian        Student                 isabella.russo@example.com     Female
+Mia         Al-Mansour   34   Saudi Arabian  Software Dev            mia.al-mansour@example.com     Female
+Ethan       O'Reilly     50   American       Marketing Manager       ethan.oreilly@example.com      Male
+Addison     Yamamoto     40   Japanese       Robotics Engineer       addison.yamamoto@example.com   Non-Binary
+Riley       Popescu      27   Romanian       Journalist              riley.popescu@example.com      Non-Binary
+Taylor      Morgan       31   Australian     Environmental Scientist taylor.morgan@example.com      Non-Binary
+Jordan      Lee          36   Korean         UX Designer             jordan.lee@example.com         Non-Binary
+Skyler      Park         29   American       Social Media Manager    skyler.park@example.com        Non-Binary
