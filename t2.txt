@@ -1,0 +1,13 @@
+Database B (Healthcare Industry Focus)
+first_name last_name   age nationality  job                     email                     gender
+Charlotte  Wilson     44  American     Neurosurgeon            charlotte.wilson@medsys.org Female
+Benjamin   García     51  Mexican      Cardiologist            benjamin.garcia@medsys.org Male
+Amelia     Rossi      38  Italian      Pediatric Nurse         amelia.rossi@medsys.org   Female
+Lucas      Dubois     29  French       Physical Therapist      lucas.dubois@medsys.org   Male
+Harper     Nguyen     27  Vietnamese   Medical Researcher      harper.nguyen@medsys.org  Female
+Mason      Al-Farsi   36  Saudi        Hospital Administrator  mason.alfarsi@medsys.org  Male
+Evelyn     Schmidt    41  German       Anesthesiologist        evelyn.schmidt@medsys.org Female
+Elijah     Johansson  48  Swedish      General Practitioner    elijah.johansson@medsys.org Male
+Abigail    Kowalski   33  Polish       Radiologist             abigail.kowalski@medsys.org Female
+Daniel     Hassan     56  Egyptian     Chief of Surgery        daniel.hassan@medsys.org  Male
+
